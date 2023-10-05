@@ -15,7 +15,6 @@ def main():
             page.item("Movies gallery", apps.gallery, default=True)
 
         with st.expander("🧩 COMPONENTS", True):
-            page.item("Find by Category", components.find_by_category)
             page.item("Find by Movie", components.find_by_movie)
             page.item("Find by Description", components.find_by_text)
             page.item("Find by Poster", components.find_by_image)
