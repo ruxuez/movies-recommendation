@@ -9,3 +9,5 @@
 [github_link]: https://github.com/ruxuez/streamlit-fashion
 
 This demo built by **VMware Data**, uses the open source **pgvector** extension of Postgres in the **VMware Greenplum** Data Warehouse to show how unstructured data, such as images and text, can be used to build powerful search engines.
+
+Dataset source: https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies?rvi=1
